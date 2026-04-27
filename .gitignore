@@ -4,3 +4,6 @@ frontend/.next
 frontend/out
 dev.log
 dev.err
+
+.vercel
+.env*.local
